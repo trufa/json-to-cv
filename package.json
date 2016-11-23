@@ -1,0 +1,21 @@
+{
+  "name": "json-to-cv",
+  "version": "0.1.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "commander": "^2.9.0",
+    "lodash": "^4.17.2",
+    "open": "0.0.5",
+    "touch": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "json-to-cv": "app.js"
+  },
+  "author": "",
+  "license": "MIT"
+}

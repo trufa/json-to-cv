@@ -1,0 +1,9 @@
+.text-center {
+    text-align: center;
+}
+
+.container {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-right: 60px;
+}
